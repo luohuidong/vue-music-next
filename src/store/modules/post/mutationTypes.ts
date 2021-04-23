@@ -1,0 +1,3 @@
+export const SAVE_POST_DATA = "SAVE_POST_DATA";
+export const SAVE_POST_COMMENT = "SAVE_POST_COMMENT";
+export const CLEAR_DATA = "CLEAR_DATA";
